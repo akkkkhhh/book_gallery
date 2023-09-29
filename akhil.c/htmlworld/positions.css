@@ -1,0 +1,15 @@
+.col1{
+    width: 25%;
+    height: 400px;
+    background-color: blue;
+  position: relative;
+ 
+}
+
+.col2{
+width: 100px;
+height: 100px;
+background-color: aqua;
+position: absolute;
+left: 30%;
+}

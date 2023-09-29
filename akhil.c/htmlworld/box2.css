@@ -1,0 +1,83 @@
+.c{
+    width: 200px;
+    height: 300px;
+  border: 1px solid black;
+    float: left;
+    margin: 10px;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.c1{
+    background-color: rgb(87, 183, 9);
+}
+
+.c2{
+    background-color: rgb(9, 7, 128);
+}
+
+.c3{
+    background-color: rgb(185, 28, 164);
+}
+.c4{
+    background-color: rgb(232, 43, 43);
+}
+.c5{
+    background-color: rgb(217, 249, 12);
+}
+.d2{
+    margin-top: 340px;
+
+
+}
+.d1{
+
+padding-left: 205px;
+}
+.main{
+   
+        margin-left: 799px;
+        margin-top: 116px;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.c6{
+    background-color: chartreuse;
+}
+.c7{
+    background-color: darkslategrey;
+}
+.c8{
+    background-color: rgb(174, 10, 122);
+}
+
+.c9{
+    background-color: rgb(47, 70, 123);
+}
+
+.c10{
+    background-color: rgb(7, 72, 45);
+}
+
+.c11{
+    background-color: rgb(217, 254, 97);
+}
+
+.c12{
+    background-color: rgb(171, 89, 89);
+}
+.akhil{
+    margin-top: 334px;
+    margin-left: -198px;
+}
+span{
+    color: deeppink;
+    font-family: 'Black Ops One';
+    /* font-family: 'Lato', sans-serif; */
+}

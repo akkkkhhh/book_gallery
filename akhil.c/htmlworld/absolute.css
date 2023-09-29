@@ -1,0 +1,32 @@
+.parent{
+    height: 400px;
+    width: 40%;
+    background-color: gray;
+    position: relative;
+    left:400px;
+    top: 600px;
+}
+.c{
+    height: 200px;
+    width: 100px;
+    border: 1px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 100px;
+}
+
+.col1{
+    background-color: aqua;
+    left: 50px;
+}
+.col2{
+    background-color: black;
+    left: 200px;
+}
+.col3{
+    background-color: blueviolet;
+    left: 350px;
+}
+.col4{
+    background-color: brown;
+    left: 500px;
+}

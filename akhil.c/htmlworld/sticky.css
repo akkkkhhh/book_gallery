@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    position: sticky;
+    top: 50px;
+}
+body{
+    font-size: xx-large;
+}
